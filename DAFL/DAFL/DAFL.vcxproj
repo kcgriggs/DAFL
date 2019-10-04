@@ -123,6 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="dataFile.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dataFile.cpp" />
+    <ClCompile Include="dataFileTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
