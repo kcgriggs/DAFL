@@ -8,13 +8,11 @@ using namespace std;
 #define fsCloseFail 3
 #define fsOpenFail 4
 #define fsPutFail 5
-
 //Class definition for a dataFile type. This class will give a dataFile object
 //the capability to perform basic file I/O operations for a fixed length,
 //direct access record file structure. Two methods are missing from this class but
 //could be added at a later time. Edit and delete record functionality are not
 //implemented in this initial version of the class.
-
 class dataFile
 {
 public:
