@@ -31,5 +31,6 @@ private:
 	int recSize;
 	int recCount;
 	int fs;
+	const int HEADSIZE; 
 };
 

@@ -29,5 +29,6 @@ private:
 	int recSize;
 	int recCount;
 	int fs;
+	int headSize;
 };
 
